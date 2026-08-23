@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "Jogo Genius",
+    "slug": "jogo-genius",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#7C9A6D"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#7C9A6D"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
